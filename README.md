@@ -79,6 +79,3 @@ gcc price_calculator.c -o price_calc
 
 **Группа:** БТИИ-251
  📧
-
-```
-```
